@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DioForever
 - 👀 I’m interested in programming 
-- <img src="https://cdn-icons-png.flaticon.com/512/121/121152.png" width=30 height=30> I’m currently learning C#, Java, html, css
+- <img src="https://icon-library.com/images/java-icon-png/java-icon-png-20.jpg" width=30 height=30> I’m currently learning C#, Java, html, css
 
 <!---
 DioForever/DioForever is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
