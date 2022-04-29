@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DioForever
 - 👀 I’m interested in programming 
 - I’m currently learning:
-  - <img src="https://icon-library.com/images/java-icon-png/java-icon-png-20.jpg" width=35 height=35>  Java
+  -    <img src="https://icon-library.com/images/java-icon-png/java-icon-png-20.jpg" width=35 height=35>  Java
   - <img src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png" width=65 height=35>  C#
   - <img src="https://icon-library.com/images/java-icon-png/java-icon-png-20.jpg" width=35 height=35>  HTML
   - <img src="https://icon-library.com/images/java-icon-png/java-icon-png-20.jpg" width=35 height=35>  CSS
