@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dio</h1>
+<h1 align="center">Yo 👋, I'm Dio</h1>
 <h3 align="center">A developer from Czech Republic</h3>
 
 - 🔭 I’m currently working on RPG plugin in game called Minecraft **DioRPG**
@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/dio forever" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dio forever" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC-KDX7bZcWaGjmXuRRnEy1Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Dio Forever" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
