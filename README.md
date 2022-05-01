@@ -1,18 +1,24 @@
-- 👋 Hi, I’m @DioForever
-- I’m interested in programming, anime, manga
-- I’m currently learning:
-  - <img src="https://icon-library.com/images/java-icon-png/java-icon-png-20.jpg" width=35 height=35>  Java
-  - <img src="https://camo.githubusercontent.com/52045ed9d775b4ac9286e51c28b878edca6bb1750815b423c8d06c7976040ab7/68747470733a2f2f6d617274696e63686176657a2e6769746875622e696f2f4173736574732f4c6f676f732f6373686172702e737667" width=65 height=35>  C#
-  - <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" width=35 height=35>  HTML
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width=25 height=35>  CSS
+<h1 align="center">Hi 👋, I'm Dio</h1>
+<h3 align="center">A developer from Czech Republic</h3>
 
-<!---
-DioForever/DioForever is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dioforever" alt="dioforever" /></a> </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=DioForever&&show_icons=true&title_color=FFC300&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+- 🔭 I’m currently working on RPG plugin in game called Minecraft **DioRPG**
 
-- Pronouns: He/Him
-- Country: Czech Republic
-- School: SSPŠ https://www.ssps.cz
+- 👨‍💻 All of my projects are available at [dioforever.live](dioforever.live)
+
+- 📫 How to reach me **dioofficial001@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.youtube.com/c/dioforever" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dioforever" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dioforever&show_icons=true&locale=en&layout=compact" alt="dioforever" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dioforever&show_icons=true&text_color=ffdd00&locale=en" alt="dioforever" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dioforever&theme=dark" alt="dioforever" /></p>
