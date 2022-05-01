@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on RPG plugin in game called Minecraft **DioRPG**
 
-- 👨‍💻 All of my projects are available at [dioforever.live](dioforever.live)
-
 - 📫 How to reach me **dioofficial001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
