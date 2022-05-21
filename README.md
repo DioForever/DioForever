@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **dioofficial001@gmail.com**
 <p align="left">
-<a href="" target="blank"><img align="center" src="RightMonitor.png" alt="Dio Forever" height="150" width="100%" /></a>
+<a href="" target="blank"><img align="center" src="RightMonitor.png" alt="Dio Forever" height="300" width="100%" /></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
