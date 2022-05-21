@@ -2,6 +2,7 @@
 <h3 align="center">A developer from Czech Republic</h3>
 <h3 align="center">I am interested in programming, anime, manga </h3>
 
+<img src="./githubprofile.png" height="20%" width="20%>
 
 
 - 🔭 I’m currently working on RPG plugin in game called Minecraft **DioRPG**
