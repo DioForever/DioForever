@@ -2,15 +2,12 @@
 <h3 align="center">A developer from Czech Republic</h3>
 <h3 align="center">I am interested in programming, anime, manga </h3>
 
-<img src="./githubprofile.png" size="25%">
+<img src="./githubprofile.png" size="20px">
 
 
 - 🔭 I’m currently working on RPG plugin in game called Minecraft **DioRPG**
 
 - 📫 How to reach me **dioofficial001@gmail.com**
-<p align="left">
-<a href="" target="blank"><img align="center" src="RightMonitor.png" alt="Dio Forever" height="300" width="100%" /></a>
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
