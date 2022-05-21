@@ -1,5 +1,5 @@
 <p style="background-image: url('RightMonitor.png');">
-<h1 align="center">Yo 👋, I'm Daniel</h1>
+<h1 style="background-image: url('RightMonitor.png');" align="center">Yo 👋, I'm Daniel</h1>
 <h3 align="center">A developer from Czech Republic</h3>
 <h3 align="center">I am interested in programming, anime, manga </h3>
 </p>
