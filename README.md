@@ -5,6 +5,9 @@
 - 🔭 I’m currently working on RPG plugin in game called Minecraft **DioRPG**
 
 - 📫 How to reach me **dioofficial001@gmail.com**
+<p align="left">
+<a href="" target="blank"><img align="center" src="RightMonitor.png" alt="Dio Forever" height="50" width="100%" /></a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
