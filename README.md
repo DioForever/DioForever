@@ -1,7 +1,8 @@
+</div <img src="./RightMonitor.png" >  >
 <h1 align="center">Yo 👋, I'm Daniel</h1>
 <h3 align="center">A developer from Czech Republic</h3>
 <h3 align="center">I am interested in programming, anime, manga </h3>
-
+</div>
 - 🔭 I’m currently working on RPG plugin in game called Minecraft **DioRPG**
 
 - 📫 How to reach me **dioofficial001@gmail.com**
