@@ -1,4 +1,4 @@
-<img src="./githubprofile.png">
+<img src="./github_profile.png">
 
 - 🔭 I’m currently working on RPG plugin in game called Minecraft **DioRPG**
 - 📫 How to reach me **dioofficial001@gmail.com**
