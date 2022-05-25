@@ -1,6 +1,7 @@
 <img src="./github_profile.png">
 
-- 🔭 I’m currently working on RPG plugin in game called Minecraft **DioRPG**
+- 🔭 I’m currently working on RPG plugin in game called Minecraft **DioRPG** 
+-     and discord bot **DokjaBot**, you can bookmark specific manhwa or manga and it will tell you when its released on when it will be released!
 - 📫 How to reach me **dioofficial001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
