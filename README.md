@@ -1,4 +1,10 @@
-<img src="./github_profile.png">
+<div>
+    <h1>Yo, I am Daniel</h1>
+    <p>- I am programmer from Czech Republic</p>
+    <p>- I am interested in programming, anime, manga, games</p>
+    <p>- I am 17 years old</p>
+    <p>- I am a student at Smíchovská Střední průmyslová škola a gymnázium since 2021</p>
+</div>
 
 - 🔭 I’m currently working on RPG plugin in game called Minecraft **DioRPG** 
 - and discord bot **DokjaBot**, you can bookmark specific manhwa or manga and
