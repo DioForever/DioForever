@@ -1,4 +1,4 @@
-<div class="me">
+<div background-image: url("github_profile.png")>
     <h1>Yo, I am Daniel</h1>
     <p>- I am programmer from Czech Republic</p>
     <p>- I am interested in programming, anime, manga, games</p>
