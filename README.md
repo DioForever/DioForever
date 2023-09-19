@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="550" src="https://github.com/DioForever/DioForever/blob/main/github_profile17.png?raw=true"  />
+  <img height="100%" src="https://github.com/DioForever/DioForever/blob/main/github_profile17.png?raw=true"  />
 </div>
 
 ###
