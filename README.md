@@ -8,7 +8,7 @@
 
 
 <div class="container" style="position: relative; text-align: center; width: 300px; height: 300px; overflow: hidden; border-radius: 15px;">
-  <img src="[your-image-url.jpg](https://github.com/DioForever/DioForever/blob/main/github_profile2.png)" alt="Snow" style="width:100%; height:100%; object-fit: cover;">
+  <img src="https://github.com/DioForever/DioForever/blob/main/github_profile2.png" alt="Snow" style="width:100%; height:100%; object-fit: cover;">
   <div class="text" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background-color: rgba(255, 255, 255, 0.7); padding: 10px; border-radius: 5px;">
     Text on Image?
   </div>
