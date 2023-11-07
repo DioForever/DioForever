@@ -7,7 +7,7 @@
 </div>
 
 <div class="container" align="center">
-  <img src="[.jpg](https://github.com/DioForever/DioForever/blob/main/github_profile2.png)" alt="Snow" style="width:100%;">
+  <img src="https://github.com/DioForever/DioForever/blob/main/github_profile2.png" alt="Snow" style="width:100%;">
   <div class="bottom-left">Bottom Left</div>
   <div class="top-left">Top Left</div>
   <div class="top-right">Top Right</div>
