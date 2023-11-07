@@ -6,13 +6,13 @@
   <img height="100%" src="https://github.com/DioForever/DioForever/blob/main/github_profile17.png?raw=true"  />
 </div>
 
-<div class="container" align="center">
-  <img src="https://github.com/DioForever/DioForever/blob/main/github_profile2.png" alt="Snow" style="width:100%;">
-  <div class="bottom-left">Bottom Left</div>
-  <div class="top-left">Top Left</div>
-  <div class="top-right">Top Right</div>
-  <div class="bottom-right">Bottom Right</div>
-  <div class="centered">Centered</div>
+<div class="container" align="center" style="position: relative; display: inline-block;">
+  <img src="https://github.com/DioForever/DioForever/blob/main/github_profile2.png" alt="Snow" style="width:100%; border-radius: 15px;">
+  <div class="bottom-left" style="position: absolute; bottom: 0; left: 0; background-color: rgba(255, 255, 255, 0.7); padding: 5px; border-radius: 5px;">Bottom Left</div>
+  <div class="top-left" style="position: absolute; top: 0; left: 0; background-color: rgba(255, 255, 255, 0.7); padding: 5px; border-radius: 5px;">Top Left</div>
+  <div class="top-right" style="position: absolute; top: 0; right: 0; background-color: rgba(255, 255, 255, 0.7); padding: 5px; border-radius: 5px;">Top Right</div>
+  <div class="bottom-right" style="position: absolute; bottom: 0; right: 0; background-color: rgba(255, 255, 255, 0.7); padding: 5px; border-radius: 5px;">Bottom Right</div>
+  <div class="centered" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background-color: rgba(255, 255, 255, 0.7); padding: 5px; border-radius: 5px;">Centered</div>
 </div>
 
 ###
